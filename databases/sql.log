@@ -1,0 +1,9 @@
+timestamp: 2017-03-23T11:18:29.337000
+CREATE TABLE faces(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id CHAR(512) UNIQUE,
+    pic_num INTEGER,
+    file CHAR(512)
+);
+success!
+success!
