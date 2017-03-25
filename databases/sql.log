@@ -7,3 +7,14 @@ CREATE TABLE faces(
 );
 success!
 success!
+success!
+DROP TABLE faces;
+success!
+timestamp: 2017-03-25T16:53:43.160000
+CREATE TABLE faces(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER,
+    pic_num INTEGER,
+    file CHAR(512)
+);
+success!

@@ -8,3 +8,14 @@
 [2017-03-23 11:39:58] EDIT face_ar/models/db.py: 2
 [2017-03-23 11:40:23] EDIT face_ar/models/db.py: -2
 [2017-03-23 11:41:34] EDIT face_ar/models/db.py: 0
+[2017-03-25 14:15:16] CREATE train.py: 0
+[2017-03-25 15:15:36] EDIT face_ar/controllers/train.py: 14
+[2017-03-25 16:28:44] EDIT face_ar/controllers/train.py: 1
+[2017-03-25 16:46:03] EDIT face_ar/models/db.py: 0
+[2017-03-25 16:46:03] EDIT face_ar/models/db.py: 0
+[2017-03-25 16:51:15] EDIT face_ar/models/db.py: 3
+[2017-03-25 16:52:27] EDIT face_ar/models/db.py: -3
+[2017-03-25 16:52:29] EDIT face_ar/models/db.py: 0
+[2017-03-25 16:53:04] EDIT face_ar/controllers/default.py: 3
+[2017-03-25 16:53:20] EDIT face_ar/controllers/default.py: 0
+[2017-03-25 17:05:15] EDIT face_ar/controllers/train.py: 1

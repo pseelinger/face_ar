@@ -57,5 +57,6 @@ def call():
     supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv
     """
     return service()
-
-
+def droptable():
+    db.faces.drop()
+    return 'table faces has been dropped'
