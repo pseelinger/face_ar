@@ -6,6 +6,7 @@ The point of this web2py app will be to create an XML file out of a trained Open
 <li>Uploaded test faces to database</li>
 <li> Migrated some OpenCV code, but having some import issues in Python</li>
 </ul>
+
 ### To Do:
 <ol>
 <li>Migrate OpenCV code to app to iteratively train the recognizer on the test database</li>
